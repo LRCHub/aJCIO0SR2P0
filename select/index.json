@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "三つ葉の結びめ",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2025-12-29T03:52:12.479282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_三つ葉の結びめ_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_三つ葉の結びめ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_三つ葉の結びめ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/04_三つ葉の結びめ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "Nagi Yanagi",
+      "has_synced": true,
+      "path": "select/05_三つ葉の結びめ_Nagi_Yanagi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/06_三つ葉の結びめ_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "三つ葉の結びめ",
+      "artist": "Yanagi, Nagi",
+      "has_synced": true,
+      "path": "select/07_三つ葉の結びめ_Yanagi,_Nagi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mitsuba no Musubime (三つ葉の結びめ)",
+      "artist": "yanaginagi (やなぎなぎ)",
+      "has_synced": true,
+      "path": "select/08_Mitsuba_no_Musubime_(三つ葉の結びめ)_yanaginagi_(やなぎなぎ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三つ葉の結びめ",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_三つ葉の結びめ_やなぎなぎ.txt"
+    }
+  ]
+}
